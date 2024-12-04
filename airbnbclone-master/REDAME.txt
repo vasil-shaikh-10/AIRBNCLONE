@@ -1,0 +1,8 @@
+Airbnb Clone
+├── Configs                                                        
+├── Controllers
+├── Middlewares
+├── Models
+├── Routers   
+├── index.js                                     
+├── package.json
